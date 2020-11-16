@@ -524,7 +524,6 @@ input::placeholder{
       left: 20px;
    }
 }
-
 @media screen and (max-width: 850){
    #header .header{
       transform: scale(.55);
